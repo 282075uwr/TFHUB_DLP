@@ -1,4 +1,4 @@
-#Prerequisites
+# Prerequisites
 
 One needs to install the necessary libraries. It is possible to do by using the next commands:
 

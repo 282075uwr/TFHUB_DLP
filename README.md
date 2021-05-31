@@ -15,6 +15,5 @@ Other libraries (mentioned in the .ipynb notebooks) can be installed if necessar
    Full .ipynb file is available under the next link:
    https://github.com/282075uwr/TFHUB_DLP/blob/main/tf_hub_det_intro.ipynb
 
-  .py file which contains the model described in the tutorial above can be accessed via:
-
-2. We take the pretrained model for the classification and try to make transfer learning on it (also we introduce the notion of transfer learning). Full .ipynb file is available under the next link:
+2. We take the pretrained model for the classification and try to make transfer learning on it (also we introduce the notion of transfer learning). 
+   Full .ipynb file is available under the next link:

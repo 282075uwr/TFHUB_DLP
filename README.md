@@ -3,6 +3,7 @@
 One needs to install the necessary libraries. It is possible to do by using the next commands:
 
 $ pip install "tensorflow>=2.0.0"
+
 $ pip install --upgrade tensorflow-hub
 
 Other libraries (mentioned in the .ipynb notebooks) can be installed if necessary.

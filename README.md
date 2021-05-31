@@ -8,7 +8,7 @@ $ pip install --upgrade tensorflow-hub
 
 Other libraries (mentioned in the .ipynb notebooks) can be installed if necessary.
 
-1. We introduce the reader to the TensorFlow Hub. TensorFlow Hub is a repository of trained machine learning models ready for fine-tuning or/and deploying. We do that by showing the example of image segmentation.
+1. We introduce the reader to the TensorFlow Hub. TensorFlow Hub is a repository of trained machine learning models ready for fine-tuning or/and deploying. We do that by showing the example of object detection.
 
   Full .ipynb file is available under the next link:
 

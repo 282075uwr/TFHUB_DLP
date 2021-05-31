@@ -12,7 +12,7 @@ Other libraries (mentioned in the .ipynb notebooks) can be installed if necessar
 
 1. We introduce the reader to the TensorFlow Hub. TensorFlow Hub is a repository of trained machine learning models ready for fine-tuning or/and deploying. We do that by showing the example of object detection. Models that we use are pre-trained on the COCO 2017 dataset.
 
-  Full .ipynb file is available under the next link:
+   Full .ipynb file is available under the next link:
 
   .py file which contains the model described in the tutorial above can be accessed via:
 
